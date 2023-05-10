@@ -1,7 +1,5 @@
-# Установите максимальный множитель увеличения урона (по умолчанию: 1 (60%))
 # Set the maximum damage increase multiplier (default: 1 (60%))
 multiplier: 0.6
 
-# Установите значение HP игрока, при котором будет производиться увеличение урона (по умолчанию: 10)
 # Set the player's HP value at which the damage increase will be performed (default: 10)
 critical: 10
