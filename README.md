@@ -1,5 +1,5 @@
 # Adrenaline
-plugin for PocketMine-MP
+Plugin for PocketMine-MP
 
 # Description
 The plugin allows you to increase the player's damage, inversely proportional to the amount of his HP
