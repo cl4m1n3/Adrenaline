@@ -1,0 +1,10 @@
+---
+name: Adrenaline
+main: cl4m1n3\adrenaline\Adrenaline
+api:
+- 4.0.0
+version: 1.0.0
+php:
+- 8
+author: cl4m1n3
+...
