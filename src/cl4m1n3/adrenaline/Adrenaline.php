@@ -8,7 +8,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\Server;
 use pocketmine\player\Player;
-use pocketmine\utils\COnfig;
+use pocketmine\utils\Config;
 
 class Adrenaline extends PluginBase implements Listener
 {
